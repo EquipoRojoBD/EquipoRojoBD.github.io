@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.a780200b.chunk.css",
-    "main.js": "/static/js/main.032c5751.chunk.js",
-    "main.js.map": "/static/js/main.032c5751.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.4da2637d.js",
-    "runtime-main.js.map": "/static/js/runtime-main.4da2637d.js.map",
+    "main.css": "/static/css/main.6d653ad8.chunk.css",
+    "main.js": "/static/js/main.8006ceb0.chunk.js",
+    "main.js.map": "/static/js/main.8006ceb0.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.b3cc01c7.js",
+    "runtime-main.js.map": "/static/js/runtime-main.b3cc01c7.js.map",
     "static/css/2.28016e38.chunk.css": "/static/css/2.28016e38.chunk.css",
-    "static/js/2.3b8b3335.chunk.js": "/static/js/2.3b8b3335.chunk.js",
-    "static/js/2.3b8b3335.chunk.js.map": "/static/js/2.3b8b3335.chunk.js.map",
-    "static/js/3.d504fb6c.chunk.js": "/static/js/3.d504fb6c.chunk.js",
-    "static/js/3.d504fb6c.chunk.js.map": "/static/js/3.d504fb6c.chunk.js.map",
+    "static/js/2.8583e44d.chunk.js": "/static/js/2.8583e44d.chunk.js",
+    "static/js/2.8583e44d.chunk.js.map": "/static/js/2.8583e44d.chunk.js.map",
+    "static/js/3.7fd685e3.chunk.js": "/static/js/3.7fd685e3.chunk.js",
+    "static/js/3.7fd685e3.chunk.js.map": "/static/js/3.7fd685e3.chunk.js.map",
     "index.html": "/index.html",
     "static/css/2.28016e38.chunk.css.map": "/static/css/2.28016e38.chunk.css.map",
-    "static/css/main.a780200b.chunk.css.map": "/static/css/main.a780200b.chunk.css.map",
-    "static/js/2.3b8b3335.chunk.js.LICENSE.txt": "/static/js/2.3b8b3335.chunk.js.LICENSE.txt",
+    "static/css/main.6d653ad8.chunk.css.map": "/static/css/main.6d653ad8.chunk.css.map",
+    "static/js/2.8583e44d.chunk.js.LICENSE.txt": "/static/js/2.8583e44d.chunk.js.LICENSE.txt",
     "static/media/admin.d7cca115.jpg": "/static/media/admin.d7cca115.jpg",
     "static/media/herencia_personas.bebb3357.png": "/static/media/herencia_personas.bebb3357.png",
     "static/media/man_1.81507201.jpg": "/static/media/man_1.81507201.jpg",
@@ -22,10 +22,10 @@
     "static/media/woman_1.b93b2026.jpg": "/static/media/woman_1.b93b2026.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.4da2637d.js",
+    "static/js/runtime-main.b3cc01c7.js",
     "static/css/2.28016e38.chunk.css",
-    "static/js/2.3b8b3335.chunk.js",
-    "static/css/main.a780200b.chunk.css",
-    "static/js/main.032c5751.chunk.js"
+    "static/js/2.8583e44d.chunk.js",
+    "static/css/main.6d653ad8.chunk.css",
+    "static/js/main.8006ceb0.chunk.js"
   ]
 }
